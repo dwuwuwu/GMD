@@ -10,6 +10,9 @@ Physics and Controls: Understand Unity's physics and how to control the ball wit
 Game Objects and Scripting: Get familiar with GameObjects, Prefabs, and basic C# scripting to manage game behaviours like object collection and scoring.
 UI Elements: Add text for scores and instructions, exploring Unity's UI system.
 
+![image](https://github.com/dwuwuwu/GMD/assets/99435591/e55af055-9ae7-4283-9ea3-21f4c5b4fc20)
+
+
 		
 #Implementation
 Setting Up the Environment: The first step of the project is to set up a simple three-dimensional gaming environment. The player-controlled ball is represented by a sphere, and the ground is made of a plane. 
