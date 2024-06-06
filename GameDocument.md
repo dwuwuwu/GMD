@@ -4,7 +4,7 @@ Game Design Document
 Executive Summary
 
 Game Concept
-"Hardcore Heights" is an intense platformer inspired by Super Meat Boy, demanding precision and skill from players. The game challenges players to navigate through hazardous levels filled with deadly obstacles to reach the end goal.
+"Red Rocket" is an intense platformer inspired by Super Meat Boy, demanding precision and skill from players. The game challenges players to navigate through hazardous levels filled with deadly obstacles to reach the end goal.
 
 Genre
 Hardcore Platformer
@@ -23,7 +23,7 @@ Objectives
 Complete levels by reaching the end goal.
 
 Game Progression
-Players progress through a series of increasingly difficult levels. Each level introduces new obstacles and mechanics, requiring players to master precise timing and quick reflexes.
+Players progress through a series of increasingly difficult levels. 
 
 Mechanics
 
@@ -39,7 +39,7 @@ Dash/Slide: Additional movement options to navigate obstacles.
 
 Obstacles
 Spikes: Instantly kill the player upon contact.
-Moving Pikes: Require precise timing to navigate.
+Moving Spikes: Require precise timing to navigate.
 Hazards: Includes saw blades, spikes, and other deadly traps.
 
 <img width="765" alt="Screenshot 2024-06-07 at 00 17 10" src="https://github.com/dwuwuwu/GMD/assets/99435591/086a2c98-feb7-42be-bb9b-8983e06115e5">
@@ -59,9 +59,6 @@ Hidden obstacles.
 
 
 Assets
-
-Music
-Fast-paced and energetic music to match the intensity of the gameplay.
 
 Sound Effects
 Crisp and clear sounds for jumps and finish lines
