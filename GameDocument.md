@@ -69,6 +69,8 @@ Pixelated and thematic environmental models to create an immersive experience.
 Music
 https://assetstore.unity.com/packages/audio/music/free-8-synthwave-tracks-275637
 https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
+https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-sound-effects-free-227708
+https://assetstore.unity.com/packages/2d/gui/icons/371-simple-buttons-pack-97516
 
 
 
