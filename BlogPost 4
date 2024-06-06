@@ -1,13 +1,13 @@
 Blog Post 4: Conquering Difficulty – Pushing Through the Core Mechanics
 
 
-As we went on with the development of "Hardcore Heights", we faced significant challenges when it comes to implementing the core mechanics which make it unique.
+As we went on with the development of "Red Rocket", we faced significant challenges when it comes to implementing the core mechanics which make it unique.
 This part of game development was critical as it laid a foundation for the final shape of the game and concentrated on wall slides, jumps, wall jumps and other movement mechanics that so much characterise our gaming experience.
 
 Wall Slides and Wall Jumps
 
 The wall slide and wall jump were one of our main mechanics that we wanted to perfect.
-These are instrumental in getting through levels filled with danger in “Hardcore Heights.”
+These are instrumental in getting through levels filled with danger in “Red Rocket.”
 For these mechanics to be incorporated accurately meant having collision detection systems that were on point and controls that were responsive.
 At first, we had difficulties ensuring that the player characters would consistently respond to walls’ interaction.
 We had to adjust physics engine so as to make sure that walls contacts registering and jumping off them correctly would maintain character’s natural feel momentum wise.
@@ -31,7 +31,7 @@ This resulted in a set of movement mechanics that felt tight and responsive, all
 
 Conclusion
 Despite challenges encountered, it has been incredibly rewarding to successfully implement these core mechanics.
-Each hurdle we overcame has brought us closer to the concept of “Hardcore Heights.”
+Each hurdle we overcame has brought us closer to the concept of “Red Rocket.”
 This process developed our skills as developers making us understand how important it is not give up and keep improving what you have done over again when creating games.
 We are excited about refining these mechanics more going forward and expect to present further progress with subsequent updates.
 
