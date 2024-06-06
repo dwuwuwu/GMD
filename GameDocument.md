@@ -30,6 +30,7 @@ Mechanics
 Rules
 Players must reach the end goal of each level while avoiding obstacles.
 Touching any obstacle results in instant death, restarting the level.
+
 <img width="659" alt="Screenshot 2024-06-07 at 00 12 42" src="https://github.com/dwuwuwu/GMD/assets/99435591/822fcc26-4168-4121-b99c-eacc6b7bd8b9">
 
 Controls
@@ -49,6 +50,8 @@ Game Elements
 Level Design
 Levels designed to gradually increase in difficulty.
 Hidden obstacles.
+
+
 <img width="751" alt="Screenshot 2024-06-07 at 00 13 58" src="https://github.com/dwuwuwu/GMD/assets/99435591/e6dd64e9-2351-4ff0-84c3-c98a853cbaab">
 
 
